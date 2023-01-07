@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(105, 159, 119);
+    /* align-items: center; */
+    text-align: center;
+    margin: 0;
+}
+#head{
+    width: 1258px;
+    background-color: aqua;
+    /* margin-left: 180px; */
+    margin-left: 139px;
+    margin-bottom: 0;
+}
+textarea{
+    font-size: 15px;
+    margin-top: 0;
+}
+
+#ans{
+    width: 1258px;
+    background-color: aqua;
+    margin-left: 139px;
+    margin-top: 0;
+    height: 50px;
+    padding-top: 15px;
+    font-size: 25px;
+    font-weight: bold;
+}
